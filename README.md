@@ -4,6 +4,7 @@ Cybersecurity student at the University at Albany (B.S. Cybersecurity, Cyber Def
 
 - Blue Team Captain, UAlbany Cyber Defense Organization
 - NCAE Cyber Games 2026: 1st place Northeast Regional, 3rd place National Invitational
+- CPTC 2026: 1st place New England Regional, advancing to Global Finals
 - Currently studying for CompTIA Security+
 
 ## Featured Project
